@@ -3,7 +3,7 @@
 namespace JarrettAndLam\Overwatch\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use ZestyBus\Overwatch\Overwatch;
+use JarrettAndLam\Overwatch\Overwatch;
 
 class OverwatchServiceProvider extends ServiceProvider
 {
