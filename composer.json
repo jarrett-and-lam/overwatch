@@ -14,11 +14,8 @@
     },
     "autoload": {
       "psr-4": {
-        "JarrettAndLam\\Overwatch\\": "src/Overwatch/"
+        "JarrettAndLam\\Overwatch\\": "src"
       }
-    },
-    "config": {
-      "preferred-install": "dist"
     },
     "extra": {
       "laravel": {
@@ -27,6 +24,5 @@
         ]
       }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
   }
